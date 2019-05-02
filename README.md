@@ -24,7 +24,7 @@ to include the Git submodules.
 git clone http://github.com/transpect/pdf2fxl --recursive
 ```
 
-## Invocation
+## Invocation Test
 
 `./pdf2fxl sample/demojam.pdf -d -e`
 
